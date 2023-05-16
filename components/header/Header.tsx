@@ -19,7 +19,7 @@ export const Header = () => {
           source={require('../../assets/30.png')}
         />
       </View>
-      <HeaderInfo/>
+      <HeaderInfo />
     </View>
   );
 };
